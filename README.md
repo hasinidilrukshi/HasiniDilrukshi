@@ -1,11 +1,11 @@
 # 👋 Hi there, I'm Hasini Dilrukshi!
 
 - 📖 I’m currently learning **Information Technology** @SLIIT.**(Student ID: IT 23281578)**
-- 🌌 I’m crazy about **Astronomy** and love exploring new tech.
+- 🌌  I’m crazy about **astronomy**, love exploring new tech, and I’m crazy about the **gem field**, from rare stones to the science behind them!
 - 💻 How to reach me: hasinidilrukshigv@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/hasini-dilrukshi-1a073a314](https://linkedin.com/in/hasini-dilrukshi-1a073a314)
 - 🐙 GitHub: [github.com/hasinidilrukshi](https://github.com/hasinidilrukshi)
-- ⚡ Fun fact: I’m passionate about creating apps that simplify everyday life!
+- ⚡ Fun fact: I’m fascinated by how a few lines of code can transform ideas into powerful tools people use every day.
 
 ## 📱 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasini-dilrukshi-1a073a314)
@@ -25,7 +25,7 @@
 
 ## 📊 GitHub Stats
 ![Hasini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasinidilrukshi&show_icons=true&theme=radical)
-## Hi there 👋
+
 
 <!--
 **hasinidilrukshi/HasiniDilrukshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
